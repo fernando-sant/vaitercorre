@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="logo_remove.png" alt="Logo do Projeto" width="200">
+    <img src="logo.png" alt="Logo do Projeto" width="200">
   </a>
 
   <h3 align="center">Vai Ter Corre?</h3>
